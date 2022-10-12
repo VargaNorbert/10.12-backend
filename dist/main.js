@@ -1,0 +1,1 @@
+(()=>{"use strict";let e=[1,2,3];e=e.filter((e=>e>2)),document.addEventListener("DOMContentLoaded",(()=>{document.getElementById("szoveg").addEventListener("input",(e=>{let t=e.currentTarget;document.body.style.backgroundColor=t.value}))}))})();
